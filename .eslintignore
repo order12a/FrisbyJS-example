@@ -1,0 +1,6 @@
+mochawesome-report
+.idea
+/node_modules/*
+conf.js
+.gitignore
+package.json
